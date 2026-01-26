@@ -5,12 +5,7 @@ Email Me 👉 ✉️ **mramji747@gmail.com** For Collaboration/Project or Anythi
 
 - 🔭 **I’m currently working on:** Full-Stack Web Application
 - 🌱 **I’m currently learning:** DevOps
-- 🤔 **I’m looking for help with:** DevOps
 - 💬 **Ask me about:** React, Node.js, PostgreSQL, Full-Stack Development
-- 📫 **How to reach me:** mramji747@gmail.com
-- ⚡ **Fun fact:** I turn coffee into code!
-
-## 🔗 I am a Full-Stack Developer. 😊😊
 
 Let's connect and collaborate! Feel free to reach out for projects, opportunities, or just to chat about tech.
 
