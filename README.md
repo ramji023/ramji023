@@ -7,20 +7,6 @@ Email Me 👉 ✉️ **mramji747@gmail.com** For Collaboration/Project or Anythi
 - 🌱 **I’m currently learning:** DevOps
 - 💬 **Ask me about:** React, Node.js, PostgreSQL, Full-Stack Development
 
-Let's connect and collaborate! Feel free to reach out for projects, opportunities, or just to chat about tech.
-
-[![Ram Ji Portfolio](https://img.shields.io/badge/Portfolio-Ramji%20Mishra-pink?logo=instagram&logoColor=white)](https://ram-ji-mishra.vercel.app/)
-[![Ram Ji Linkedin](https://img.shields.io/badge/Linkedin-Ramji%20Mishra-blue?logo=facebook&logoColor=white)](https://www.linkedin.com/in/ram-ji-mishra-2081bb25a/)
-[![Ram Ji Twitter](https://img.shields.io/badge/Twitter-Ramji%20Mishra-lightblue?logo=twitter&logoColor=white)](https://x.com/ramjimishra001)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ramji023&color=blueviolet)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 # 💻 Tech Stack:
 
@@ -43,17 +29,6 @@ Let's connect and collaborate! Feel free to reach out for projects, opportunitie
 ### Build Tools & Testing
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 
-# 📊 GitHub Activity Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramji023&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramji023&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramji023&theme=github_dark)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-ji-mishra-2081bb25a/) 
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ramjimishra001) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
